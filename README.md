@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @zekeking
-- 👀 I’m interested in how automation and specifically coding can improve the life of the average person.
-- 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to collaborate on Hackathons and Gamejams.
-- 📫 How to reach me? I'll reach out to you.
+<h1>👋 Hi there, </h1>
+
+I'm @zekeking. My interest in coding stemmed from seeing automation in action, specifically how it can improve the life of the average person. As a result, I am very passionate about learning and continuing the tradition of sharing knowledge - contributing to open source projects is part of that. Some of my other interests include graphic design, programming, and baking. 🍞 
+
+I'm currently working on getting a blog set up and writing some scripts for tutorial videos, so think about sticking around my profile by following me. ⭐️
 
 <!---
 zekeking/zekeking is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
